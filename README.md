@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sqlsergio
 - 👀 I’m interested in Data Enginering with Python
-- 🌱 I’m currently learning more Python! (And C/C++)
-- 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me sqlsergio@gmail.com
 
 <!---
